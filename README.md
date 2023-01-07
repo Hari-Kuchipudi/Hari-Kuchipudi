@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hari-Kuchipudi
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning on flutter
+- 👀 I’m interested in Development as well as analytics
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects based on web development and app development
 - 📫 How to reach me my mail id is haricodes26@gmail.com and you can find me on instagram as @harikuchipudi
 
